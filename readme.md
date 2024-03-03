@@ -1,0 +1,1 @@
+The AI-Powered Recruitment Platform automates the hiring process by analyzing resumes, conducting pre-screening interviews, and matching candidates with job opportunities based on skills, experience, and cultural fit.
